@@ -2,7 +2,7 @@
 <h3 align="center">A french cybersecurity student at Telecom Nancy, CTF player</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><a href="https://www.root-me.org/Mistershift" target="_blank" rel="noreferrer"><img src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="bash" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
